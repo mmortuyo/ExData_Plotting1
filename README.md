@@ -34,7 +34,7 @@ web site</a>:
 </ol>
 
 ## Loading the data
-
+### This section is performed by the `source.R` 
 
 
 
@@ -59,6 +59,8 @@ functions.
 
 
 ## Making Plots
+### Each of the `plotX.R` uses the source.R for READing and SUBSETing EPC dataset
+
 
 Our overall goal here is simply to examine how household energy usage
 varies over a 2-day period in February, 2007. Your task is to
